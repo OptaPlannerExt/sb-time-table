@@ -1,1 +1,1 @@
-# Spring Boot Optaplanner Time Table
+# Spring Boot Optaplanner Time Table Demo
