@@ -1,5 +1,3 @@
-# Spring Boot Optaplanner Time Table Demo
-
 <h1>OptaPlanner Workshop - School Timetabling Problem</h1>
 <ul>
 <li><a href="#background">Background</a></li>
